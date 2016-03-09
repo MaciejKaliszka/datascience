@@ -1,2 +1,2 @@
-Git hub is an open-soiurce software
-R is cool!
+R is free software
+R is cool
